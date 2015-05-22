@@ -1,0 +1,31 @@
+/*CSS-file for the TCC website at http://xorok.github.io/
+Designed and written by Adrian Tiefenbrunner.*/
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:300);
+
+*::selection {
+	background: #4B6EAF; /* WebKit/Blink Browsers */
+}
+*::-moz-selection {
+	background: #4B6EAF; /* Gecko Browsers */
+}
+
+*{
+	font-family: 'Roboto';
+	font-weight: 300;
+	text-align: center;
+	color: #bbbbbb;
+	background-color: #3C3F41;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+img{
+	-webkit-user-select: none; /* Chrome all / Safari all / Opera some */
+	-moz-user-select: none; /* Firefox all */
+	-ms-user-select: none; /* IE 10+ */
+	-o-user-select: none; /* Opera some */
+	user-select: none;
+}
