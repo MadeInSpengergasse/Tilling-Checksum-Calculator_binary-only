@@ -22,7 +22,7 @@ h1 {
 	font-size: 25px;
 }
 
-img{
+img {
 	-webkit-user-select: none; /* Chrome all / Safari all / Opera some */
 	-moz-user-select: none; /* Firefox all */
 	-ms-user-select: none; /* IE 10+ */
