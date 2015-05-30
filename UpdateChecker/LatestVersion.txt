@@ -1,6 +1,5 @@
 [version]1.0[/version]
-[changelog]                                                TCC v1.0
------------------------------------------------------------------------------------
+[changelog]
 - Initial release
 - Easy to use, clear interface
 - Fault tolerant
