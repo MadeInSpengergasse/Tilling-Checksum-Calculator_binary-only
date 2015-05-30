@@ -3,7 +3,7 @@
 - Initial release
 - Easy to use, clear interface
 - Fault tolerant
-- Supports Always-On-Top/n
+- Supports Always-On-Top
 - Dark and Light theme available
 - Configurable (working directory, enabled checksums, etc.)
 - Supports MD5, SHA-1, SHA-256, SHA-384 and SHA-512
