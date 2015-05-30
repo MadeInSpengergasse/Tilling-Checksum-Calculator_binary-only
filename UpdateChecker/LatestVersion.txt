@@ -1,2 +1,11 @@
 [version]1.0[/version]
-[changelog]What's new[/changelog]
+[changelog]                                                TCC v1.0/n
+-----------------------------------------------------------------------------------/n
+- Initial release/n
+- Easy to use, clear interface/n
+- Fault tolerant/n
+- Supports Always-On-Top/n
+- Dark and Light theme available/n
+- Configurable (working directory, enabled checksums, etc.)/n
+- Supports MD5, SHA-1, SHA-256, SHA-384 and SHA-512
+[/changelog]
