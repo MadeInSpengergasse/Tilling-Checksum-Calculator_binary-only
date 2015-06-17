@@ -13,4 +13,4 @@ Type `chmod +x LINUX_CLICKME.sh` and press Enter.
 Then type `./LINUX_CLICKME.sh` and the application should launch!
 
 ##Mac
-###COMING SOON!
+COMING SOON!
