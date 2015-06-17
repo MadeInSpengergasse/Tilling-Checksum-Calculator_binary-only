@@ -1,2 +1,2 @@
 #!/bin/bash
-javaw -jar TCC.jar ${PWD}
+java -jar TCC.jar ${PWD}
