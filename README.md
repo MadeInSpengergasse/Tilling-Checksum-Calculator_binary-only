@@ -7,6 +7,7 @@ Download `TCC.jar` & `WIN_CLICKME.bat` from the `build` folder and put them into
 Then double-click the `WIN_CLICKME.bat` file and the application should launch.
 
 You can alternatively start the application by opening up CMD or PowerShell and typing in:
+
 `javaw -jar TCC.jar [directory of the automatically created tcc_config.prop]`
 
 ##Linux
