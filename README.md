@@ -15,7 +15,8 @@ Then open up your console/terminal, navigate to your chosen directory and type i
 This will make the script executable. Afterwards just type in `./LINUX_CLICKME.sh` and the application should launch.
 
 You can alternatively start the application by opening up the terminal, navigating to the chosen directory and typing in:<br>
-`javaw -jar TCC.jar [directory of the automatically created tcc_config.prop]`
+`java -jar TCC.jar [directory of the automatically created tcc_config.prop]`
 
 ##Mac
 Please feel free to contact me if you want to provide a similar script for OSX!
+The linux variant should work!
