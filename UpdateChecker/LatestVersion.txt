@@ -1,5 +1,4 @@
-[version]1.1[/version]
+[version]1.2[/version]
 [changelog]What's new:
-- Added update checker
-- Code cleanup
+- Minor improvements to the update checker
 [/changelog]
