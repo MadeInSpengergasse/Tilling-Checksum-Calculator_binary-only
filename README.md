@@ -3,14 +3,19 @@ TCC is a java-based checksum calculator in development. For Windows, Linux and c
 
 #Usage
 ##Windows
-Download `TCC.jar` & `WIN_CLICKME.bat` from the `build` folder and put it into one folder.
-Then double-click the `WIN_CLICKME.bat` file and the application should launch!
+Download `TCC.jar` & `WIN_CLICKME.bat` from the `build` folder and put them into the same directory.
+Then double-click the `WIN_CLICKME.bat` file and the application should launch.
+
+You can alternatively start the application by opening up CMD or PowerShell and typing in:
+`javaw -jar TCC.jar [directory of the automatically created tcc_config.prop]`
 
 ##Linux
-Download `TCC.jar` & `LINUX_CLICKME.bat` from the `build` folder and put it into one folder.
-Then open your console/terminal, navigate to the download folder.
-Type `chmod +x LINUX_CLICKME.sh` and press Enter.
-Then enter `./LINUX_CLICKME.sh` and the application should launch!
+Download `TCC.jar` & `LINUX_CLICKME.bat` from the `build` folder and put them into the same directory.
+Then open up your console/terminal, navigate to your chosen directory and type in `chmod +x LINUX_CLICKME.sh`.
+This will make the script executable. Afterwards just type in `./LINUX_CLICKME.sh` and the application should launch.
+
+You can alternatively start the application by opening up the terminal and typing in:
+`javaw -jar TCC.jar [directory of the automatically created tcc_config.prop]`
 
 ##Mac
-Try the linux variant, maybe it works! Please report back if it works or not!
+Please feel free to contact me if you want to provide a similar script for OSX!
