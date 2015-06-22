@@ -1,5 +1,7 @@
-[version]1.3[/version]
+[version]1.4[/version]
 [changelog]What's new:
-- Dark theme is used by default now
-- Fixed a bug where SHA-256 didn't work after reactivating
+- Added a new setting to use a color-based indicator instead of dialogs
+- Fixed a bug which caused the validation to return wrong results
+- Improvements to the validation of the properties-file
+- Some code improvements
 [/changelog]
