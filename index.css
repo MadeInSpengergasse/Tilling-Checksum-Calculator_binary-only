@@ -1,7 +1,7 @@
 /*CSS-file for the TCC website at https://xorok.github.io/Tilling-Checksum-Calculator/
 Designed and written by Adrian Tiefenbrunner.*/
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 *::selection {
 	background: #4B6EAF; /* WebKit/Blink Browsers */
