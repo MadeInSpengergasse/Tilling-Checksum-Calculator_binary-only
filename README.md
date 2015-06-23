@@ -19,3 +19,4 @@ You can alternatively start the application by opening up the terminal, navigati
 
 ##Mac
 Please feel free to contact me if you want to provide a similar script for OSX!
+The linux variant should work!
