@@ -1,7 +1,5 @@
-[version]1.4[/version]
+[version]1.5[/version]
 [changelog]What's new:
-- Added a new setting to use a color-based indicator instead of dialogs
-- Fixed a bug which caused the validation to return wrong results
-- Improvements to the validation of the properties-file
-- Some code improvements
+- Removed some test code which broke the theme setting
+- Minor tweaks
 [/changelog]
