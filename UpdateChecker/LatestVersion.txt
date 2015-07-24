@@ -1,5 +1,6 @@
-[version]1.5[/version]
+[version]1.6[/version]
 [changelog]What's new:
-- Removed some test code which broke the theme setting
-- Minor tweaks
+- Fixed a small memory leak (InputStream not closed)
+- Some small performance optimizations
+- Removed redundant code
 [/changelog]
