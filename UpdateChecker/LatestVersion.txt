@@ -1,6 +1,10 @@
-[version]1.6[/version]
+[version]1.7[/version]
 [changelog]What's new:
-- Fixed a small memory leak (InputStream not closed)
-- Some small performance optimizations
-- Removed redundant code
+- Added automatic input of checksums from the clipboard
+- Added option to configure the automatic replacement of checksums
+  in the textfield
+- Added new color codes info dialog
+  (Only visible if "Use color indicator instead of dialogs" is enabled)
+- Other improvements to the color indicator
+- You can now press 'Enter' at any time to verify the checksum
 [/changelog]
